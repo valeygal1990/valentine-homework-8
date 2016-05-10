@@ -1,0 +1,31 @@
+@media only screen and (max-width: 768px){
+	#sidebar{
+		float:left;
+		display: block;
+		
+	}
+
+	#hero{
+		background: red;
+
+	}
+
+	.container{
+		display: block;
+		text-align: left;
+	}
+
+	/*.container nav li:first-child{
+		float:right;
+		cursor: pointer;
+		display: inline-block;
+		max-width:700px;
+	}*/
+
+	#benefits{
+		width: 100%;
+
+	}
+
+
+}
